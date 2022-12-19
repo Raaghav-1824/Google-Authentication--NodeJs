@@ -20,6 +20,8 @@ you must register an application with Google. If you have not already done so, a
 
 # Structure of Project
 
+![alt text]( "Logo Title Text 1")
+
 
 
 
