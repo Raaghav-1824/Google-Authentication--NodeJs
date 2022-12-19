@@ -20,7 +20,7 @@ you must register an application with Google. If you have not already done so, a
 
 # Structure of Project
 
-![alt text]( "Logo Title Text 1")
+![alt text](https://github.com/Raaghav-1824/Google-Authentication--NodeJs/blob/main/Images/ProjectStructure.png"Logo Title Text 1")
 
 
 
