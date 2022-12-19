@@ -20,7 +20,7 @@ you must register an application with Google. If you have not already done so, a
 
 # Structure of Project
 
-![Project Structure](https://github.com/Raaghav-1824/Google-Authentication--NodeJs/blob/main/Images/ProjectStructure.png)
+![Project Structure](ProjectStructure.jpeg)
 
 # Install Dependencies
 - express
