@@ -32,6 +32,13 @@ you must register an application with Google. If you have not already done so, a
 - passport
 - passport-google-oauth20
 
+## Usage
+This project has no usage other than to present future employers of my progresss as a Full-Stack Web Developer.
+
+## Credits
+- Dr. Angela Yu
+- Udemy
+
 
 
 
