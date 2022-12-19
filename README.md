@@ -23,14 +23,14 @@ you must register an application with Google. If you have not already done so, a
 ![Project Structure](https://github.com/Raaghav-1824/Google-Authentication--NodeJs/blob/main/Images/ProjectStructure.png)
 
 # Install Dependencies
-'express
+express
 ejs
 connect-mongo
 dotenv
 express-session
 mongoose
 passport
-passport-google-oauth20'
+passport-google-oauth20
 
 
 
